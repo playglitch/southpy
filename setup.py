@@ -18,7 +18,7 @@ setup(
     packages= { "southpy" },
     url= "https://github.com/doamatto/southpy",
     install_requires=["requests", "aiohttp"],
-    keywords= ["api", "southpine", "southpy"]
+    keywords= ["api", "southpine", "southpy"],
     classifiers= [
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.6",
