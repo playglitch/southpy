@@ -19,4 +19,4 @@ For usage information, [read the Wiki](https://github.com/doamatto/southpy/wiki/
 
 ## Acknowledgements
 
-This uses endpoints on Glitch's servers, meaning you're getting the most accurate data (since Glitch is the developer of Southpine).
+This tool is maintained and originally developed by [doamatto](https://doamatto.xyz). This uses endpoints on Glitch's servers, meaning you're getting the most accurate data (since Glitch is the developer of Southpine).
